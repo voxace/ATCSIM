@@ -1,0 +1,46 @@
+commands for commercial aircraft:
+
+
+ARRIVALS:
+
+
+Runway to gate:
+
+
+
+Hold pattern:
+
+
+DEPARTURES:
+
+Pushaback:
+Option1:
+(a)"(airport) tower, this is (callsign) requesting pushback in gate (number)"
+(t)"(callsign), this (airport) tower, pushback approved with tail to the (direction)
+Option2:
+(a)"(airport) tower, this is (callsign) requesting pushback in gate (number)"
+(t)"(callsign), pushback is currenly not avalible. please hold."
+
+Gate to runway:
+(a)"(callsign) is ready to taxi"
+(t)"(callsign), taxi to holding point (runway number) via (taxiway x ?)
+(a)"(copy, taxi to holding point (runway 
+
+
+
+
+
+Hold position:
+
+
+
+Repeat command reguarly:
+
+
+
+Emergencies:
+
+
+
+
+
